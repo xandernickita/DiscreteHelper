@@ -73,6 +73,9 @@ export default function Home() {
           </div>
         </div>
       </div>
+      <footer className="fixed bottom-0 left-0 w-full p-6 text-center text-sm opacity-70">
+        © 2026 Alexander Nickita
+      </footer>
     </main>
   );
 }
