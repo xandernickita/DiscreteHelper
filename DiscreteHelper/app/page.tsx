@@ -38,7 +38,7 @@ export default function Home() {
     >
       <div style={{ width: "420px", maxWidth: "100%" }}>
         <h1 style={{ fontSize: "2rem", marginBottom: "0.5rem" }}>
-          Discrete Math Toolkit
+          Discrete Math Fun シ
         </h1>
         <p style={{ opacity: 0.75, marginBottom: "1.5rem" }}>
           Choose a function:
